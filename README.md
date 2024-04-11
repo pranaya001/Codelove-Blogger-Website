@@ -19,7 +19,7 @@ CodeLove was founded with the mission of making programming education accessible
 
 ## Features
 Tutorials: 
-      Access a wide range of tutorials covering various programming languages, algorithms, data structures, and more.
+      Access a wide range of tutorials covering various programming languages, algorithms, data structures, and more. 
 Projects: 
       Explore and contribute to open-source projects, collaborate with other developers, and showcase your work.
 Community: 
@@ -39,7 +39,7 @@ Don't wait any longer! Start your coding journey with CodeLove today!
 
 Thank you for choosing CodeLove as your programming destination. We're excited to embark on this journey with you and help you unleash your full potential as a developer. Happy coding! 🚀
 
-Sincerely,
+Sincerely, 
 The CodeLove Team
 
 ### Author: Pranaya Suryawanshi 
