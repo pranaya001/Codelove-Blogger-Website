@@ -18,10 +18,10 @@ CodeLove was founded with the mission of making programming education accessible
       etc...
 
 ## Features
-Tutorials: Access a wide range of tutorials covering various programming languages, algorithms, data structures, and more. 
-Projects: Explore and contribute to open-source projects, collaborate with other developers, and showcase your work.
+Tutorials: Access a wide range of tutorials covering various programming languages, algorithms, data structures, and more...... 
+Projects: Explore and contribute to open-source projects, collaborate with other developers, and showcase your work............
 Community: Join our vibrant community of programmers, ask questions, share knowledge, and connect with like-minded individuals.
-Resources: Discover useful resources such as books, online courses, and tools to enhance your learning experience.
+Resources: Discover useful resources such as books, online courses, and tools to enhance your learning experience..............
 
 ## Contact Us
 Have a question or feedback? We'd love to hear from you! 
