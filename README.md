@@ -18,13 +18,13 @@ CodeLove was founded with the mission of making programming education accessible
       etc...
 
 ## Features
-### Tutorials: 
+Tutorials: 
       Access a wide range of tutorials covering various programming languages, algorithms, data structures, and more.
-### Projects: 
+Projects: 
       Explore and contribute to open-source projects, collaborate with other developers, and showcase your work.
-### Community: 
+Community: 
       Join our vibrant community of programmers, ask questions, share knowledge, and connect with like-minded individuals.
-### Resources: 
+Resources: 
      Discover useful resources such as books, online courses, and tools to enhance your learning experience.
 
 ## Contact Us
@@ -42,4 +42,4 @@ Thank you for choosing CodeLove as your programming destination. We're excited t
 Sincerely,
 The CodeLove Team
 
-### Author- Pranaya Suryawanshi 
+### Author: Pranaya Suryawanshi 
